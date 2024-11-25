@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at Jami
 
 ## 🔧 Technologies & Skills
 - **Languages**: C, Python(basics), Java (for DSA)
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React (learning)
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, ReactJS, Next.js(TS)
 - **Others**: Git & GitHub, Data Structures & Algorithms (250+ @ LeetCode)
 - **Areas of Interest**: Web Development, DSA problem solving, CyberSecurity
 
